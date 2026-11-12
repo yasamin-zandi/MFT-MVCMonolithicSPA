@@ -1,0 +1,9 @@
+# Visual Studio / .NET Core junk
+.vs/
+[Bb]in/
+[Oo]bj/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
